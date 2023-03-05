@@ -68,6 +68,6 @@ if N < 4:
 
 queen = NQueen(N)
 res = queen.nQueen(1)
-OBOBOB
+
 for i in res:
     print(i)
